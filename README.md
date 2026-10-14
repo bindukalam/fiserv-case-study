@@ -1,7 +1,6 @@
 # Fiserv: Distributed Financial Services & GenAI Platform (Case Study)
 
 > **Role:** Software Engineer · **Period:** Jan 2025 – Present · **Location:** USA
-> **Note:** This is a high-level, sanitized case study. It contains no proprietary code, data, or internal details.
 
 ## Overview
 
